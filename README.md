@@ -29,14 +29,14 @@ The proposed model, 'ResNet_model,' amalgamates the strengths of transfer learni
 
 ## Output:
 
-### ResNet Model Reaches the **Accuracy of 94% and Valdation Accuracy of 75%**
+## ResNet Model Reaches the **Accuracy of 94% and Valdation Accuracy of 75%**
 
 ![Accuracy](https://github.com/naveenkumar12624/19AI701-MINI_PROJECT_TEAM_ML-20/assets/93427235/b1447558-54c6-42f2-85a6-cf58fb745eff)
 
-### Also the **Loss has been Reduced** Over some Iterations.
+## Also the **Loss has been Reduced** Over some Iterations.
 ![Screenshot 2023-11-15 001110](https://github.com/naveenkumar12624/19AI701-MINI_PROJECT_TEAM_ML-20/assets/93427235/e1310cb7-4455-46b2-bca4-b432262907c8)
 
-### This ResNet Model can able to Detect the **Bone is Fractured or Not**
+## This ResNet Model can able to Detect the **Bone is Fractured or Not**
 ![Screenshot 2023-11-15 001406](https://github.com/naveenkumar12624/19AI701-MINI_PROJECT_TEAM_ML-20/assets/93427235/7db5055a-a83d-4d00-a5e8-7cef129a7b7b)
 
 ![Screenshot 2023-11-15 001859](https://github.com/naveenkumar12624/19AI701-MINI_PROJECT_TEAM_ML-20/assets/93427235/0509ca80-5bcd-406a-a3b0-a5fa3673c386)
