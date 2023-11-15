@@ -1,6 +1,6 @@
 # 19AI701-MINI_PROJECT_TEAM_ML-20
 
-# Title:Title: Deep Learning Based Bone Fracture Identification using Residual Neural Network.
+# Title: Deep Learning Based Bone Fracture Identification using Residual Neural Network.
 <br></br>
 ## Problem:
 The current process of diagnosing bone fractures from X-ray images in the medical domain often encounters challenges due to the reliance on manual interpretation by radiologists. This manual approach may lead to delays in diagnosis, potential misinterpretations, and variations in expertise, affecting patient care and treatment timelines. Moreover, the increasing demand for swift and accurate fracture detection necessitates a more efficient and automated system.
